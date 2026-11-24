@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+u-suga-two-lines-to-your-past-self-f36c83ca-kit/
+*.tar.gz
